@@ -2,22 +2,22 @@
 
 ## Local Installation
 
-  0. Create a project directory, cd into it, and clone this project
+  1. Create a project directory, cd into it, and clone this project
   
     $ mkdir inventory_api
     $ cd inventory_api
     $ git clone <link-to-git-repository>
     $ cd inventory_api
 
-  1. Create a virtual environment for Python3 
+  2. Create a virtual environment for Python3 
 
     $ virtualenv --python python3 venv
     
-  2. Activate virtual environment
+  3. Activate virtual environment
   
     $ source venv/bin/activate
     
-  3. Install dependencies
+  4. Install dependencies
   
     $ pip install -r requirements.txt
     
